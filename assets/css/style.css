@@ -1,0 +1,35 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+
+.jumbotron {
+    background-color:#18867d;
+    color: black;
+  }
+
+.table {
+    background-color:#2565d4;
+    color: black;
+    margin-bottom: 60px;
+    font-family: 'Crimson Text', serif;
+}
+
+.form-group {
+      background-color:#2565d4;
+      color: black;
+      margin-bottom: 60px;
+      font-family: 'Crimson Text', serif;
+  }
+  
+.btn {
+      margin:3px;
+      background-color: #d4dce7;
+      border:2px solid magenta;
+      font-family: 'Crimson Text', serif;
+  }
+  
+.btn:hover{
+      background-color: red;
+      border: 2px solid #c00d6d;
+  }
